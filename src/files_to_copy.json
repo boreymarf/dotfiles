@@ -1,0 +1,15 @@
+[
+  "~/.bashrc",
+  "~/.zshrc",
+  "~/Scripts/",
+  "~/.config/kitty/",
+  "~/.config/waybar/",
+  {
+    "path": "~/.config/hypr/",
+    "ignore": "plugins"
+  },
+  {
+    "path": "~/.config/OpenTabletDriver/",
+    "ignore": "Logs"
+  }
+]
