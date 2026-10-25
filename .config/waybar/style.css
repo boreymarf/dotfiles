@@ -1,0 +1,57 @@
+* {
+  background: transparent;
+  color: #bfbfbf;
+  font-family: "CaskaydiaMono Nerd Font";
+  border: none;
+  min-height: 0px;
+  font-size: 12px;
+}
+
+#waybar {
+  background: transparent;
+}
+
+
+.modules-right {
+  background: transparent;
+}
+
+
+#memory {
+  padding: 1px 12px;
+  margin: 1px 4px;
+}
+
+
+
+#cpu {
+  padding: 1px 12px;
+  margin: 1px 4px;
+}
+
+
+
+#backlight {
+  padding: 1px 12px;
+  margin: 1px 0px;
+}
+
+#temperature {
+  padding: 1px 12px;
+  margin: 1px 0px;
+}
+
+#battery {
+  padding: 1px 12px;
+  margin: 1px 4px;
+}
+
+#network {
+  padding: 1px 12px;
+  margin: 1px 0px;
+}
+
+#custom-notification {
+  padding: 1px 12px;
+  margin: 1px 0px;
+}
